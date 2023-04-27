@@ -1,3 +1,9 @@
 [submodule "react-file-tree"]
 	path = react-file-tree
 	url = https://github.com/thetooaung07/react-file-tree.git
+[submodule "particle-js-impl"]
+	path = particle-js-impl
+	url = https://github.com/thetooaung07/particle-js-impl.git
+[submodule "state-management"]
+	path = state-management
+	url = https://github.com/thetooaung07/state-management.git
